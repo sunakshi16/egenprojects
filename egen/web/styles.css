@@ -1,0 +1,73 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    font-family: Verdana;
+}
+#nav {
+    line-height:50px;
+    background-color:#333333;
+    height:460px;
+    width:200px;
+    float:left;
+    padding:5px; 
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+#sectionm{
+    background-image: url("background.jpg");
+    background-size: cover;
+    width:1000px;
+    height:450px;
+    float:left;
+    padding:10px; 
+    padding-left: 100px;
+    font-family: Verdana;
+}
+#section {
+    
+    width:750px;
+    float:left;
+    padding:20px; 
+    padding-left: 100px;
+    font-family: Verdana;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    font-family: Verdana;
+}
+
+#table, tr, td{
+    font-family: Verdana;
+    padding: 5px;
+    text-align: left;
+    
+}
+td.lab {
+    height: 50px;
+    vertical-align: central;
+    text-align: right;
+    width: 100px;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+a:link, a:visited { 
+    color: white;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:link:active, a:visited:active { 
+    color: white;
+}
+
